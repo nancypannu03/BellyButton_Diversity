@@ -6,7 +6,7 @@
 
 [samples.json File](JS/data/samples.json)
 
-[style.css File](static/style.css)
+[style.css File](static/css/style.css)
 
 
 ## Results 
