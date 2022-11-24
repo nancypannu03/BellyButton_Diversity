@@ -16,7 +16,8 @@
 ![Test Image](/Resources/Bar_Chart.png)
 
 
-![Test Image](/Resources/Bar_Chart2.png)
+![Test Image](/Resources/Bar_chart2.png)
+
 
 ### Deliverable 2: Create a Bubble Chart
 
