@@ -1,4 +1,11 @@
 # BellyButton_Diversity
+
+[Index.html File](index.html)
+
+[charts.js File](JS/charts.js)
+
+[samples.json File](JS/data/samples.json)
+
 ## Results 
 ### Deliverable 1: Create a Horizontal Bar Chart
 ### Deliverable 2: Create a Bubble Chart
